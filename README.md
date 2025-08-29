@@ -1,7 +1,7 @@
 # namandigital_task1
 📝 Task Manager App
 
-A simple and effective Desktop Application built using Java and Swing to manage daily tasks efficiently.  
+A simple and effective Desktop Application built using "Java" and "Swing" to manage daily tasks efficiently.  
 This project was developed as part of my "internship project", focusing on implementing CRUD operations, task management logic, and user-friendly UI design.
 
 ----
